@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Banty825413/DSA_LeetCode/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Banty825413/DSA_LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Banty825413/DSA_LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Banty825413/DSA_LeetCode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Banty825413/DSA_LeetCode/tree/master/0511-game-play-analysis-i) |
