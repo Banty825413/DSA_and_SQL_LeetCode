@@ -131,6 +131,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Banty825413/DSA_LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
