@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/Banty825413/DSA_LeetCode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Banty825413/DSA_LeetCode/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Banty825413/DSA_LeetCode/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Banty825413/DSA_LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Banty825413/DSA_LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
