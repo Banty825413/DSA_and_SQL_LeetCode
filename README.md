@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Banty825413/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Banty825413/DSA_LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Banty825413/DSA_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -161,11 +162,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
