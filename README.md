@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Banty825413/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Banty825413/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Banty825413/DSA_LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Banty825413/DSA_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -180,6 +181,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Banty825413/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
