@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0067-add-binary) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Banty825413/DSA_LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0633-sum-of-square-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Banty825413/DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0067-add-binary) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -187,6 +190,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Banty825413/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
