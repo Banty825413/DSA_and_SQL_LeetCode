@@ -166,15 +166,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Dynamic Programming
 |  |
