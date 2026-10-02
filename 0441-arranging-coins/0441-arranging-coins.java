@@ -1,6 +1,6 @@
 class Solution {
     public int arrangeCoins(int n) {
-        if (n==1){return n;}
+        // if (n==1){return n;}
         int left = 1; int right =n;
         while(left <= right){
             int mid = left +(right - left )/2;
