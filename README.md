@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Banty825413/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Banty825413/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Banty825413/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Banty825413/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Banty825413/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Banty825413/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Banty825413/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Banty825413/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Banty825413/DSA_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -221,6 +225,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Banty825413/DSA_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Banty825413/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
