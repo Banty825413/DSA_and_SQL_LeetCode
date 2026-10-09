@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Banty825413/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Banty825413/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Banty825413/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0367-valid-perfect-square](https://github.com/Banty825413/DSA_LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Banty825413/DSA_LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0633-sum-of-square-numbers) |
