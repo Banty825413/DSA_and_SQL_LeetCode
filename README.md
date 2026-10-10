@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Banty825413/DSA_LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Banty825413/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Banty825413/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Banty825413/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Banty825413/DSA_LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Banty825413/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Banty825413/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Banty825413/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Banty825413/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Banty825413/DSA_LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Banty825413/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
