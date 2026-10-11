@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Banty825413/DSA_LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Banty825413/DSA_LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Banty825413/DSA_LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Banty825413/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Banty825413/DSA_LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,6 +255,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Banty825413/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
