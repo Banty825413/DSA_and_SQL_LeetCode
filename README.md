@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Banty825413/DSA_LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/Banty825413/DSA_LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
+| [0563-binary-tree-tilt](https://github.com/Banty825413/DSA_LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -280,6 +283,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/Banty825413/DSA_LeetCode/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->n of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
