@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Banty825413/DSA_LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Banty825413/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Banty825413/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Banty825413/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Banty825413/DSA_LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Banty825413/DSA_LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Banty825413/DSA_LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Banty825413/DSA_LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Banty825413/DSA_LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Banty825413/DSA_LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Banty825413/DSA_LeetCode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Banty825413/DSA_LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
