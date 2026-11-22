@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Banty825413/DSA_LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Banty825413/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Banty825413/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Banty825413/DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Banty825413/DSA_LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Banty825413/DSA_LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Banty825413/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -107,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Banty825413/DSA_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Banty825413/DSA_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Banty825413/DSA_LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Banty825413/DSA_LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
